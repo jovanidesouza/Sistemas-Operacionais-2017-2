@@ -1,5 +1,5 @@
 # Sistemas-Operacionais-2017-2
-Repositório com Trabalhos da disciplina de Sistemas Operacionais do Curso de Ciência da Computação - UFFS
+Repositório com Trabalhos da disciplina de Sistemas Operacionais 2017/2 do Curso de Ciência da Computação - UFFS
 
 ############################################################
 
