@@ -1,4 +1,2 @@
 * linguist-vendored
 *.Assembly linguist-vendored=false
-
-*.c linguist-detectable=true
