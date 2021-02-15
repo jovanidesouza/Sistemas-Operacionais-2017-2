@@ -3,14 +3,14 @@ Repositório com Trabalhos da disciplina de Sistemas Operacionais do Curso de Ci
 
 ---
 
-# T1 - Sistemas Operacionais 2017/2
+## T1 - Sistemas Operacionais 2017/2
 
 Trabalho realizado na disciplina de Sistemas Operacionais do curso de Ciência da Computação - UFFS.
 Implementação de um escalonador por loteria (lottery scheduler) no sistema operacional Xv6.
 
 ---
 
-# T2 - Sistemas Operacionais 2017/2
+## T2 - Sistemas Operacionais 2017/2
 
 Trabalho realizado na disciplina de Sistemas Operacionais do curso de Ciência da Computação - UFFS.
 Implementação de um escalonador por Passos largos (Stride Scheduler) no sistema operacional Xv6.
